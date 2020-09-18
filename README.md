@@ -1,9 +1,10 @@
 # coderefactor
+09/17/2020 Jessica Anocibar
+
 <strong>First Assignment</strong>
 
 Goal was to clean existing code and make it look better than it did by cleaning it up. Goal is to properly format existing code and fix any potential errors. Notes are below that include updates and changes that were made.
 
-Jessica Anocibar 09/17/2020
 
 <strong>index.html</strong>
 -Title was changed to a concise and descriptive title
